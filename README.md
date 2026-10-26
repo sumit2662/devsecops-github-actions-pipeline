@@ -230,7 +230,9 @@ Planned enhancements include:
 
 Cyber Security Student | Aspiring DevSecOps Engineer
 
-GitHub: [Add your GitHub profile link](https://github.com/)
+GitHub: (https://github.com/sumit2662)
+YouTube: www.youtube.com/@officialhackwithsumit
+LinkedIn: https://www.linkedin.com/in/sumit-jadhav-67090b2a6
 
 ## ⚠️ Disclaimer
 
